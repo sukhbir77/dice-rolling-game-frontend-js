@@ -16,4 +16,4 @@ This project is a straightforward Dice Game implemented using HTML, CSS, and jQu
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/sukhbir77/Dice-Game-jQuery-.git
+   git clone https://github.com/sukhbir77/dice-rolling-game-frontend-js.git
